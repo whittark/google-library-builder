@@ -1,0 +1,34 @@
+.form-group {
+    color: #222221!important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-size: 12px;
+}
+.btn-light {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    font-size: 12px;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #f77b07f1;
+    border-color: #dca735e1;
+    font-size: 12px;
+}
+.btn-danger:hover {
+    color: #fff;
+    background-color: #f7a307f1;
+    border-color: #f5d95ce1;
+}
+.font-italic {
+    font-style: italic!important;
+    color: #222221!important;
+}
+.list-group-item p {
+    font-size: 16px;
+    color: #222221!important;
+}

@@ -1,0 +1,13 @@
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0px;
+}
+.bg-dark {
+  background-color: #222221!important;
+}
+.nav-item {
+  font-size: 9pt;
+}
+.navbar-brand {
+  font-size: 14pt;
+}
