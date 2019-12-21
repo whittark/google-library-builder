@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(68, 64, 58);
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.jt1 {
+    margin-top: 0px;
+}
+.footer {
+    font-size: 4pt;
+}
+h2 {
+    font-size: 1.2rem;
+    color: rgb(32, 32, 32);
+}
+.strong {
+    font-weight: bolder;
+    color: rgb(32, 32, 32);
+}
+h4 {
+    font-size: 1.2rem;
+    color: rgb(247, 241, 230);
+  }
