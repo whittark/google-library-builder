@@ -1,5 +1,5 @@
 {
-  "name": "google-book-search-wt",
+  "name": "google-library-builder",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whittark/google-book-search-wt.git"
+    "url": "git+https://github.com/whittark/google-library-builder.git"
   },
   "bugs": {
-    "url": "https://github.com/whittark/google-book-search-wt/issues"
+    "url": "https://github.com/whittark/google-library-builder/issues"
   },
-  "homepage": "https://github.com/whittark/google-book-search-wt#readme"
+  "homepage": "https://github.com/whittark/google-library-builder#readme"
 }
